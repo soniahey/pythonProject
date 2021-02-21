@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="805787e5-afc6-43db-8fbd-b3e861a3feb8" name="Default Changelist" comment="done with my task on sub branch" />
+    <list default="true" id="805787e5-afc6-43db-8fbd-b3e861a3feb8" name="Default Changelist" comment="done with my task on sub branch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
         </map>
       </branch-storage>
     </favorite-branches>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../flask" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1okLqnhIXwygw7GG6Q68Quoulxn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
