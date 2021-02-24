@@ -11,6 +11,8 @@ parser.add_argument('--sum', dest='accumulate', action='store_const',
                     const=sum, default=max,
                     help='정수들의 합 (default: 가장 큰 수 찾기)')
 
-args = parser.parse_args()
-print("결과: ", args.accumulate(args.ints))
+# args = parser.parse_args()
+# print("결과: ", args.accumulate(args.ints))
 
+args = vars(parser.parse_args())
+print(args['ints'])
